@@ -8,3 +8,4 @@ i wam changing i tnow and will do second commit
 
 created the QA branch
 updated the file from git bash
+updated the file from master from git bash
